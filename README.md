@@ -37,9 +37,9 @@ Develop a small browser-based puzzle game, like a matching game or a simple vers
 
 ## 6. C++
 ### Fractal Generator
-[cpp-fractal-generator](https://github.com/ITregear/cpp-fractal-generator)
+[cpp-boid-generator](https://github.com/ITregear/cpp-boid-generator)
 
-Create a simple fractal generator, like rendering the Mandelbrot set, using complex numbers and iterating over pixel values. It's an introduction to graphics programming with C++.
+Simple boid generator and simulator. Initially in 2D, and may be extended to 3D depending on complexity.
 
 ## 7. C#
 ### Windows weather app
