@@ -36,16 +36,14 @@ Design a library management system database. Create tables for books, members, a
 Develop a small browser-based puzzle game, like a matching game or a simple version of Tetris. Utilize TypeScript for managing game state, user input handling, and UI rendering.
 
 ## 6. C++
-### Fractal Generator
-[cpp-boid-generator](https://github.com/ITregear/cpp-boid-generator)
-
-Simple boid generator and simulator. Initially in 2D, and may be extended to 3D depending on complexity.
+### ROS Project
+Initially began with [cpp-boid-generator](https://github.com/ITregear/cpp-boid-generator), attempting to simulate boids using c++. Decided that C# with Unity would be a better approach (for visualisation), and so will instead replace the c++ project with a yet to be determined ROS project, perhaps parallel manipulator kinematics based.
 
 ## 7. C#
-### Windows weather app
+### Boid Simulation
 [TBD]
 
-Build a Windows weather application. Fetch real-time weather data from an API, displaying current conditions and forecasts using Windows Forms or WPF, handling JSON data and API requests.
+Build a boid simulation, with Unity for visualisation. Begin in 2D, implementing at least the three basic rules (coherence, alignment and separation). If simple, 3D implementation will also be done, with a form of wall collision detection and avoidance.
 
 ## 8. HTML/CSS
 ### Portfolio Website
