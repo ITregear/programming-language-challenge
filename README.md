@@ -5,45 +5,44 @@
 
 The 12 planned projects are currently as follows. As they are completed, links to the respective repositories will be added.
 
-## 1. JavaScript
+## 1. C#
+### [unity-boid-simulator](https://github.com/ITregear/unity-boid-simulator)
+
+Build a boid simulation, with Unity for visualisation. Begin in 2D, implementing at least the three basic rules (coherence, alignment and separation). If simple, 3D implementation will also be done, with a form of wall collision detection and avoidance.
+
+## 2. JavaScript
 ### Interactive To-Do List
 [TBD]
 
 Create an interactive to-do list web app. Features include adding, editing, deleting tasks, marking them as complete, and filtering tasks. Employ JavaScript for dynamic content manipulation and use local storage for persistence.
 
-## 2. Rust
+## 3. Rust
 ### CLI File Organiser
 [TBD]
 
 Develop a command-line file organizer tool. It scans a directory, categorizes files by type, and moves them to respective subdirectories. Explore Rust's file handling and pattern matching capabilities.
 
-## 3. PHP
+## 4. PHP
 ### File Sharing Web App
 [TBD]
 
 Build a simple file-sharing web application where users can upload and receive unique URLs for file downloads. This introduces file handling, unique ID generation, and basic PHP web development.
 
-## 4. SQL
+## 5. SQL
 ### Library management database
 [TBD]
 
 Design a library management system database. Create tables for books, members, and loans, with complex SQL queries for searching books, issuing books, and alerting for late returns.
 
-## 5. TypeScript
+## 6. TypeScript
 ### Browser hosted puzzle game
 [TBD]
 
 Develop a small browser-based puzzle game, like a matching game or a simple version of Tetris. Utilize TypeScript for managing game state, user input handling, and UI rendering.
 
-## 6. C++
+## 7. C++
 ### ROS Project
 Initially began with [cpp-boid-generator](https://github.com/ITregear/cpp-boid-generator), attempting to simulate boids using c++. Decided that C# with Unity would be a better approach (for visualisation), and so will instead replace the c++ project with a yet to be determined ROS project, perhaps parallel manipulator kinematics based.
-
-## 7. C#
-### Boid Simulation
-[TBD]
-
-Build a boid simulation, with Unity for visualisation. Begin in 2D, implementing at least the three basic rules (coherence, alignment and separation). If simple, 3D implementation will also be done, with a form of wall collision detection and avoidance.
 
 ## 8. HTML/CSS
 ### Portfolio Website
