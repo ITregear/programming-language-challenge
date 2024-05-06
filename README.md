@@ -17,17 +17,19 @@ This is a boid simulator in 2D using Unity game engine to render the boid object
 
 Simple neural network project using keras/tensorflow to predict the race grid order from several qualifying parameters (qualifying grid order, race driver, race team and year). Potential scope to automate this to run after qualifying on Saturdays, and send out email or similar with predicted race outcome. Further scope to encorporate this into a basic website that visualises the true quali grid order, the predicted race order and the true race order.
 
-## 3. Javascript
-### Weather App
-![IN PROGRESS](https://img.shields.io/badge/-IN_PROGRESS-orange)
+## 3. HTML/CSS
+### Personal Portfolio Website
+### [personal-portfolio-github](https://github.com/ITregear/ITregear.github.io)
+![COMPLETE](https://img.shields.io/badge/-COMPLETE-green)
 
-Basic weather app that has a location input. Displays several basic widgets and graphs for specified location over time.
+Personal portfolio website showcasing several robotics projects I've undertaken in previous years. Goal is to become familiar with HTML and CSS, rather than the content of the website itself. Hosted using Github pages. Website can be viewed [here](https://itregear.github.io/)
 
-## 4. Rust
-### CLI File Organiser
-![TBD](https://img.shields.io/badge/-TBD-red)
+## 4. JavaScript
+### Electron Game of Life Simulation
+### [js-game-of-life](https://github.com/ITregear/js-game-of-life)
+![COMPLETE](https://img.shields.io/badge/-COMPLETE-green)
 
-Develop a command-line file organizer tool. It scans a directory, categorizes files by type, and moves them to respective subdirectories. Explore Rust's file handling and pattern matching capabilities.
+Simulation of Conway's Game of Life, written in JavaScript. Initially intended to just simulate the game, the project was extended with an Electron front-end. Basic IO to reset the simulation, as well as vary the density of the seed population. Additionally shows a simple population-time graph for multiple simulation runs, allowing the user to compare the evolution of the population based on the initial conditions.
 
 ## 5. PHP
 ### File Sharing Web App
